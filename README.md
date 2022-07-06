@@ -8,7 +8,7 @@
 
 Main.py - The only code file.
 music.db - The database file where the artists, albums and songs will be stored.
-READ ME.mb - Information about the code and the project.
+README.mb - Information about the code and the project.
 
 **Goal and propose**
 
