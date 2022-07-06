@@ -2,14 +2,13 @@
 ## Description: Compare how any artist album compare to one and another. You can compare them in five different ways.
 
 ###This is my final project for the Harvard CS50x course
-####Read more about the official site [cs50.harvard.edy/x/2022](https://cs50.harvard.edu/x/2022/)
+
+Read more about the official site [cs50.harvard.edy/x/2022](https://cs50.harvard.edu/x/2022/)
 
 **Files(3)**
 
 Main.py - The only code file.
-
 music.db - The database file where the artists, albums and songs will be stored.
-
 README.mb - Information about the code and the project.
 
 **Goal and propose**
