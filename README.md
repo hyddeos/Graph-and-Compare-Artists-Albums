@@ -1,6 +1,9 @@
 # Compare your favorite artist albums
 ## Description: Compare how any artist album compare to one and another. You can compare them in five different ways.
 
+![graph](https://user-images.githubusercontent.com/39992041/202570542-e83cb77c-095f-4004-9880-b596ef21e742.jpg)
+Sample image
+
 ###This is my final project for the Harvard CS50x course
 
 Read more about the official site [cs50.harvard.edy/x/2022](https://cs50.harvard.edu/x/2022/)
